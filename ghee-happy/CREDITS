@@ -1,0 +1,6 @@
+A Spoonful of Gold — third-party assets
+- Crayon Picture Book rendering engine (gl.js, crayon.js, rig.js): from the Lemo-Opuscar library, github.com/lemomo-ai/lemo-opuscar (see its LICENSE).
+- Fonts: Patrick Hand (OFL 1.1, Patrick Wagesreiter) and Gaegu Bold (OFL 1.1, JAGSORI), from github.com/google/fonts.
+- Narration voice: Kokoro-82M via kokoro-onnx (Apache-2.0), voice "af_nicole".
+- Score and sound effects: original, synthesised in code (score.py, mix.py); no samples or libraries used.
+- No existing characters, songs, brands or logos appear. The jar label reads only "GHEE".
